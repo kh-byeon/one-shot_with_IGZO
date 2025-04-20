@@ -1,0 +1,5 @@
+B3SOIPDV223 Parameter Check
+Model = n1
+W = 1e-06, L = 1e-06, M = 1
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.

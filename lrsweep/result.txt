@@ -1,0 +1,14 @@
+=== Learning Rate Sweep Results ===
+|| lr=100 margin=3 final acc=0.55 best_valid_acc=0.55 ||
+|| lr=1 margin=5 final acc=0.7 best_valid_acc=0.7 ||
+|| lr=100 margin=3 final acc=0.6333333333333333 best_valid_acc=0.6333333333333333 ||
+|| lr=100 margin=3 final acc=0.6458333333333334 best_valid_acc=0.6458333333333334 ||
+|| lr=1 margin=5 final acc=0.6041666666666666 best_valid_acc=0.6041666666666666 ||
+|| lr=1e-05 margin=3 final acc=0.725 best_valid_acc=0.725 ||
+|| lr=0.01 margin=3 final acc=0.9625 best_valid_acc=0.9625 ||
+|| lr=0.01 margin=3 final acc=1.0 best_valid_acc=1.0 ||
+|| lr=0.01 margin=3 final acc=1.0 best_valid_acc=1.0 ||
+|| lr=0.01 margin=3 final acc=0.525 best_valid_acc=0.525 ||
+|| lr=0.05 margin=3 final acc=1.0 best_valid_acc=1.0 ||
+|| lr=0.05 margin=3 final acc=1.0 best_valid_acc=1.0 ||
+|| lr=0.005 margin=3 final acc=0.9458333333333333 best_valid_acc=0.9458333333333333 ||

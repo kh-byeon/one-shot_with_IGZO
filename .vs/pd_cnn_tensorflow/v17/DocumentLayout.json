@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\pd_siam_net.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pd_siam_net.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\training.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:training.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\weight_plot_sym.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:weight_plot_sym.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\weight_plot.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:weight_plot.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\pd_siam_net_backup.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pd_siam_net_backup.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\t_omniglot_loader.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:t_omniglot_loader.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\current_training.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:current_training.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\image_augmentor.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:image_augmentor.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "current_training.py",
+              "DocumentMoniker": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\current_training.py",
+              "RelativeDocumentMoniker": "current_training.py",
+              "ToolTip": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\current_training.py",
+              "RelativeToolTip": "current_training.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T03:21:35.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "t_omniglot_loader.py",
+              "DocumentMoniker": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\t_omniglot_loader.py",
+              "RelativeDocumentMoniker": "t_omniglot_loader.py",
+              "ToolTip": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\t_omniglot_loader.py",
+              "RelativeToolTip": "t_omniglot_loader.py",
+              "ViewState": "AQIAAHICAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-27T01:16:19.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "training.py",
+              "DocumentMoniker": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\training.py",
+              "RelativeDocumentMoniker": "training.py",
+              "ToolTip": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\training.py",
+              "RelativeToolTip": "training.py",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-14T15:39:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pd_siam_net.py",
+              "DocumentMoniker": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\pd_siam_net.py",
+              "RelativeDocumentMoniker": "pd_siam_net.py",
+              "ToolTip": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\pd_siam_net.py",
+              "RelativeToolTip": "pd_siam_net.py",
+              "ViewState": "AQIAAF0BAAAAAAAAAAAlwJIBAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T14:28:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "weight_plot.py",
+              "DocumentMoniker": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\weight_plot.py",
+              "RelativeDocumentMoniker": "weight_plot.py",
+              "ToolTip": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\weight_plot.py",
+              "RelativeToolTip": "weight_plot.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T07:29:20.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "weight_plot_sym.py",
+              "DocumentMoniker": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\weight_plot_sym.py",
+              "RelativeDocumentMoniker": "weight_plot_sym.py",
+              "ToolTip": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\weight_plot_sym.py",
+              "RelativeToolTip": "weight_plot_sym.py",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-25T06:04:45.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pd_siam_net_backup.py",
+              "DocumentMoniker": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\pd_siam_net_backup.py",
+              "RelativeDocumentMoniker": "pd_siam_net_backup.py",
+              "ToolTip": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\pd_siam_net_backup.py",
+              "RelativeToolTip": "pd_siam_net_backup.py",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAswHgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-05T15:50:24.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "image_augmentor.py",
+              "DocumentMoniker": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\image_augmentor.py",
+              "RelativeDocumentMoniker": "image_augmentor.py",
+              "ToolTip": "C:\\Users\\khb\\codes\\pd_cnn_tensorflow\\image_augmentor.py",
+              "RelativeToolTip": "image_augmentor.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-14T15:50:31.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

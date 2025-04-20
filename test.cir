@@ -1,0 +1,9 @@
+ .title voltage divider
+.include /mnt/c/Users/user/anaconda3/share_folder/libraries/ptm_45nm.txt
+
+V1 vin gnd 1.0
+R1 vin out 9kOhm
+R2 out 0 1kOhm
+
+
+.end
